@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @merticdem
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning java, linux
+- 🌱 I’m currently learning java, linux and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me merticdembusiness@gmail.com
 
